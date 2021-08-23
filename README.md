@@ -4,11 +4,11 @@ Expense Settlement App is a free tool for friends and roommates to track bills a
 
 ### [Live Demo](https://expense-settlement-application.netlify.app/)
 
-![screenshot]()
+![screenshot](https://github.com/UrbanLadKT/expense-settlement-application/blob/main/src/images/Home_Page.png)
 
-![screenshot]()
+![screenshot](https://github.com/UrbanLadKT/expense-settlement-application/blob/main/src/images/Transactions_SS.png)
 
-![screenshot]()
+![screenshot](https://github.com/UrbanLadKT/expense-settlement-application/blob/main/src/images/Simplified_Transactions_SS.png)
 
 ---
 
