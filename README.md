@@ -2,7 +2,7 @@
 
 Expense Settlement App is a free tool for friends and roommates to track bills and other shared expenses, so that everyone gets paid back <br>
 
-### [Live Demo]()
+### [Live Demo](https://expense-settlement-application.netlify.app/)
 
 ![screenshot]()
 
